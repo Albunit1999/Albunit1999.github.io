@@ -1,10 +1,10 @@
 # Site
-title:              Umar Pirmahomed
+title:              Albunit Boshnjaku
 bio:                'Software Engineer/Data Scientist'
-description:        "Little blog about myself and a few projects I'm working on!"
+description:        "Blog about myself and a few projects I've worked on!"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://umarpir.github.io" # the base hostname & protocol for your site
+url: "https://Albunit1999.github.io" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
@@ -13,13 +13,13 @@ disqus_shortname:   default
 analytics-id:       "default"
 twitter:
 facebook:
-instagram:          umar.i.o
-github:             umarpir
+instagram:          albixldn
+github:             Albunit1999
 
 # personal
 location:           United Kingdom
 phone:              07432007286
-email:              umarpir99@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+email:              albunitub1999@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/flat-mountains.jpg
