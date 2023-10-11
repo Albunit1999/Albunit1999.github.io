@@ -9,16 +9,16 @@ sitemap:
 ---
 ## About me
 
-<span class="image left"><img src="{{ "/images/aboutme.png" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/aboutme.jpg" | absolute_url }}" alt="" /></span>
 
-My name is Umar and I am currently studying Computer Science with Artificial Intelligence at Brunel University. Along with that I've been working on a few projects which I'll be posting in my blog along with just general things. Although I’m due to graduate next year, I consider myself a ‘forever student,’ as not only am I eager to both constantly build on my academic foundations and stay in tune with the latest software, but I am also always looking for new things to learn and get into both professionally and as general fun!
+My name is Albi and I am a recent graduate of Computer Science with Artificial Intelligence from Brunel University. Along with that I've been working on a few projects which I'll be posting in my blog along with just general things. Although I have graduated, I consider myself a ‘forever student,’ as not only am I eager to both constantly build on my academic foundations and stay in tune with the latest software, but I am also always looking for new things to learn and get into both professionally and as general fun!
 
 <br>
 
 ### What I'm good at
 <div class="box">
   <p>
-  •	Good understanding of Java which I have developed whilst at university and working. I have also been using Spring Boot for backend development whilst developing a full stack application which can be seen in my SoundWrite project in my Blog.
+  •	Good understanding of Python which I have developed whilst at university and working. I have also been using Spring Boot for backend development whilst developing a full stack application which can be seen in my SoundWrite project in my Blog.
 •	Developed and designed various websites to complete university and work projects using HTML, CSS and JavaScript. I have also gained knowledge in React whilst developing a full stack applications.
 •	Confident of setting up, managing and querying databases using MySQL
 •	Good understanding of object-oriented programming, encapsulation, polymorphism. Also have an understanding of the SCRUM and Agile methodologies which I gained through both working and University studies.
